@@ -13,7 +13,7 @@ Every project I share is built from scratch to showcase practical, production-re
 - [**Issue Tracker App**](https://github.com/jeet-sarkar-codes/issue-tracker-app): Form-based issue logger using Flask + SQLite backend.
 - [**API Client Simulator**](https://github.com/jeet-sarkar-codes/api-client-simulator): Python script that interacts with REST APIs and parses response JSON.
 - [**Uptime Visualizer**](https://github.com/jeet-sarkar-codes/uptime-visualizer): Generates system uptime graphs using Matplotlib.
-- [**Flask Performance API**](https://github.com/jeet-sarkar-codes/flask-performance-app): Simulates load on Flask endpoints and tracks latency via browser tools.
+- [**Flask Performance App**](https://github.com/jeet-sarkar-codes/flask-performance-app): Simulates load on Flask endpoints and tracks latency via browser tools.
 
 ### 📊 Data & Dashboarding
 - [**Power BI Support Dashboard**](https://github.com/jeet-sarkar-codes/powerbi-support-dashboard): Interactive dashboard analyzing support ticket data using KPIs, slicers, and trend visuals.
