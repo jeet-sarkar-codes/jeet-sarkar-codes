@@ -1,6 +1,6 @@
 # 👨‍💻 Jeet Sarkar – Software Engineer in Progress | Future AI Security Specialist
 
-Hi, I’m Jeet — currently a Technical Support Engineer II at Dell Technologies, pivoting into software development with purpose and urgency. I’m building real-world tools to bridge the gap between system support, backend development, and secure automation.
+Hi, I’m Jeet — currently a Technical Support Engineer I at Dell Technologies, pivoting into software development with purpose and urgency. I’m building real-world tools to bridge the gap between system support, backend development, and secure automation.
 
 ---
 
@@ -31,7 +31,6 @@ Every project I share is built from scratch to showcase practical, production-re
 
 ## 🎯 Career Objective
 To become a **hybrid AI + Cybersecurity engineer**, defending intelligent systems from malicious behavior, model abuse, and systemic failure.  
-Current goal: Clear Dell’s **Software Engineer 2 IJP** and transition into backend development full-time.
 
 ---
 
